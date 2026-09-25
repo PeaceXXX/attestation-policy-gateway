@@ -1,0 +1,1 @@
+{"claims":{"debug_disabled":true,"issuer":"demo-attestation-service","mr_enclave":"aabbccddeeff00112233445566778899aabbccddeeff00112233445566778899","mrsigner":"ci-release-signer","tcb_svn":7},"policy_id":"prod-web-v1"}

@@ -1,0 +1,1 @@
+{"allowed_signers":["ci-release-signer","ops-hotfix-signer"],"deny_debug":true,"id":"prod-web-v1","min_tcb_svn":5,"required_claims":{"issuer":"demo-attestation-service","mr_enclave":"aabbccddeeff00112233445566778899aabbccddeeff00112233445566778899"}}
